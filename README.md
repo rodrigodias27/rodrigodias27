@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigodias27
-- 👀 I’m interested in Python, Postgres, Javascript, Typescript, pandas, airflow
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Python, Postgres, Javascript, Typescript, Angular, pandas, airflow
+- 🌱 I’m currently learning Beanstalk
 - 💞️ I’m looking to collaborate on Open Source python projects
 
 <!---
